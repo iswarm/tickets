@@ -21,3 +21,5 @@ In some sense, tickets are money and need to publish securely. 在某种意义�
    数字签名就可以完全代替公章、私章了，而且很安全，无法被代替。
 
 # Solution
+
+   研发基于区块链技术的系统可以很好解决票据双花问题。
