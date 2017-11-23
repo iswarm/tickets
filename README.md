@@ -22,4 +22,4 @@ In some sense, tickets are money and need to publish securely. 在某种意义�
 
 # Solution
 
-   研发基于区块链技术的系统可以很好解决票据双花问题。双边押金交易方案<a href="https://github.com/iswarm/bilateralContract" />可以建立票据系统代币和法币间的分布式交易市场，从而使资金可以进入。
+   研发基于区块链技术的系统可以很好解决票据双花问题。[双边押金交易方案](https://github.com/iswarm/bilateralContract) 可以建立票据系统代币和法币间的分布式交易市场，从而使资金可以进入。
